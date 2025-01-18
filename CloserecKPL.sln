@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentAPI", "StudentAPI\StudentAPI.csproj", "{DAD771A2-50D2-4BB7-A907-9E4B3470683B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonApp", "SingletonApp\SingletonApp.csproj", "{34AA440B-D181-418D-9D69-F4687C4EDB48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DAD771A2-50D2-4BB7-A907-9E4B3470683B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAD771A2-50D2-4BB7-A907-9E4B3470683B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAD771A2-50D2-4BB7-A907-9E4B3470683B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34AA440B-D181-418D-9D69-F4687C4EDB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34AA440B-D181-418D-9D69-F4687C4EDB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34AA440B-D181-418D-9D69-F4687C4EDB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34AA440B-D181-418D-9D69-F4687C4EDB48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
